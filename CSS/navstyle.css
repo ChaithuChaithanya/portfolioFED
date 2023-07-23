@@ -1,0 +1,21 @@
+.nav nav-tabs{
+    background-color: #38eaa9;
+    color: rgb(204, 21, 21);
+  
+    font-size: 16px;
+  
+    
+  }
+.nav-item dropdown{
+    background-color: #04AA6D;
+    color: rgb(106, 178, 39);
+    font-size: 16px;
+    
+  }
+  
+.nav-link dropdown-toggle{
+    background-color: rgb(58, 243, 221);
+    color: rgb(223, 223, 92);
+}
+
+

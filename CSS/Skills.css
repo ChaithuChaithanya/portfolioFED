@@ -1,0 +1,65 @@
+
+.container{
+    margin-top: 100px;
+}
+.callout {
+    position: fixed;
+    bottom: 35px;
+    right: 20px;
+    margin-left: 20px;
+    max-width: 300px;
+  }
+  
+  .callout-header {
+    padding: 25px 15px;
+    background: #555;
+    font-size: 30px;
+    color: white;
+  }
+  
+  .callout-container {
+    padding: 15px;
+    background-color: #ccc;
+    color: black
+  }
+  
+  .closebtn {
+    position: absolute;
+    top: 5px;
+    right: 15px;
+    color: white;
+    font-size: 30px;
+    cursor: pointer;
+  }
+  
+  .closebtn:hover {
+    color: lightgrey;
+  }
+  .btn1:hover{
+    background-color: rgba(42, 154, 239, 0.583);
+  border-radius: 50%;
+  box-shadow: 0 0 5px #1ecb0e;
+
+  }
+  .Courses{
+    text-align: center;
+    color: rgb(104, 196, 202);
+    
+  }
+  .carousel-item{
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 10 10 10 10px;
+    height: fit-content;
+    width:fit-content;
+    border-radius: 90%;
+    border-color: rgb(88, 37, 239) 5px;
+    box-shadow: hsla(0, 0%, 80%, 0.268);
+  }
+.carousel-caption{
+  
+    text-decoration-line: underline;
+    text-decoration-style: double;
+    text-decoration-color: rgb(11, 70, 110);
+
+}

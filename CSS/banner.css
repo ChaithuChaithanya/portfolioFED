@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Lugrasimo&display=swap');
+*{
+font-family: 'Lugrasimo', cursive;
+}
+
+.bannerBgImage {
+    height: 98vh;
+    width: 100%;
+    background: url("/images/darkbg.jpg");
+    background-size: cover;
+    position: relative;
+    box-shadow: white;
+    
+
+}
+
+.btn{
+  /* margin: 10px 20px 10px -20px; */
+  text-align: left;
+    margin-left: -10px;
+    margin-top: 20px;
+}
+.bannerText{
+  margin-top: 110px;
+  margin-left: 25px;
+  color: rgba(188, 192, 207, 0.221);
+}
+.bannerTittle{
+  margin-left: 10px;
+  color: rgb(84, 12, 16);
+  text-align: center;
+}
+.picmatter{
+  font-size: 90px;
+}
+.bannerTittle1{
+  margin-left: 10px;
+  color: rgb(84, 12, 16);
+
+}
+
+
+
+
+
